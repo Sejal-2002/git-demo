@@ -1,2 +1,0 @@
-This file was created from github.
-Don't use this method to create file.
