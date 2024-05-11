@@ -1,2 +1,4 @@
  Currently I am exploring tools of DevOps .
  I have learnt Jenkins.
+ I have learnt git and github.
+ I have learnt kubernetes.
